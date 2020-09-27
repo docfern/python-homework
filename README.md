@@ -43,10 +43,10 @@ print(f"Greatest Increase in Profits: {months[revenue_change.index(max(revenue_c
 print(f"Greatest Decrease in Profits: {months[revenue_change.index(min(revenue_change))+1]} (${greatest_decrease}) \n")
 
 
-Financial Analysis
-....................................................................................
-total months: 86
-Total: $38382578
-Average change: $-2315.1176470588234
-Greatest Increase in Profits: Feb-2012 $1926159
-Greatest Decrease in Profits: Sep-2013 $-2196167
+# Financial Analysis
+.....
+### total months: 86
+### Total: $38382578
+### Average change: $-2315.1176470588234
+### Greatest Increase in Profits: Feb-2012 $1926159
+### Greatest Decrease in Profits: Sep-2013 $-2196167
