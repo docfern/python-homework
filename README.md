@@ -34,13 +34,13 @@ for x in range(1, len(profitloss)):
         greatest_decrease = min(profitloss_change)
 
 # Show results
-print("Financial Analysis")
-print(f"------------------------------------------------------- \n")
-print(f"Total Months: {total_months} \n")
-print(f"Total: $ {sum(profitloss)} \n")
-print(f"Average Change: $ {profitloss_average} \n")
-print(f"Greatest Increase in Profits: {months[revenue_change.index(max(revenue_change))+1]} (${greatest_increase}) \n")
-print(f"Greatest Decrease in Profits: {months[revenue_change.index(min(revenue_change))+1]} (${greatest_decrease}) \n")
+#### print("Financial Analysis")
+#### print(f"------------------------------------------------------- \n")
+#### print(f"Total Months: {total_months} \n")
+#### print(f"Total: $ {sum(profitloss)} \n")
+##### print(f"Average Change: $ {profitloss_average} \n")
+##### print(f"Greatest Increase in Profits: {months[revenue_change.index(max(revenue_change))+1]} (${greatest_increase}) \n")
+#### print(f"Greatest Decrease in Profits: {months[revenue_change.index(min(revenue_change))+1]} (${greatest_decrease}) \n")
 
 
 # Financial Analysis
