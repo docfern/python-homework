@@ -50,3 +50,6 @@ for x in range(1, len(profitloss)):
 ### Average change: $-2315.1176470588234
 ### Greatest Increase in Profits: Feb-2012 $1926159
 ### Greatest Decrease in Profits: Sep-2013 $-2196167
+
+
+# JUST TESTING MY GIT PUSH ERROR
